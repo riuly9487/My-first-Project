@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      TodoList Website
+    </title>
+    <link rel="stylesheet" href="styles/general.css">
+    <link rel="stylesheet" href="styles/input.css">
+    <link rel="stylesheet" href="styles/content.css">
+    <link rel="stylesheet" href="styles/header.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+  </head>
+  <body>
+    <div class="todolist-container">
+      <div class="header">
+        <div class="website-left-section">
+          <div class="website-title">
+            Mini Project - ToDo List &#x2713; 
+          </div>
+          <div class="author">
+            by: riuly
+          </div>
+        </div>
+        <div class="website-right-section">
+          <div class="website-date-title">
+            Date should display here...
+          </div>
+          <div class="website-date-subtitle">
+          </div>
+        </div>
+      </div>
+      <div class="todolist-body">
+        <div class="todolist-header">
+          <div class="todolist-input">
+            <input class="text-input js-input" placeholder="Write something to record with">
+            <input class="date-input js-date" type="date">
+          </div>
+          <div class="todolist-button">
+            <button class="add-button js-add-button">
+              +
+            </button>
+          </div>
+        </div>
+        <div class="content">
+        </div>
+      </div>
+    </div>
+    <script type="module" src="scripts/input.js"></script>
+    <script type="module" src="scripts/content.js"></script>
+    <script type="module" src="scripts/storage.js"></script>
+    <script type="module" src="scripts/main.js"></script>
+    <script type="module" src="scripts/header.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.13/dayjs.min.js"></script>
+  </body>
+</html>

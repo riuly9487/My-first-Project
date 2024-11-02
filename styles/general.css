@@ -1,0 +1,14 @@
+body {
+  font-family: Roboto, Arial;
+  background-image: linear-gradient(to right, rgb(86, 86, 255), rgb(169, 77, 255));
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.todolist-container {
+  flex: 1;
+  max-width: 700px;
+  width: 90%;
+  padding: 50px;
+}
