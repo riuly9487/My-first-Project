@@ -13,7 +13,6 @@ https://youtu.be/EerdGm-ehJQ?si=rePxk1MrxOKt-eeJ  <br/>
 = = = = INTRODUCTION = = = =  <br/>
 
 ToDoList 1.0 <br/>
-https://riuly9487.github.io/My-first-Project/ <br/>
 
 ![3F9A5D5D-DF27-4876-9C77-6AC98DB59A0F](https://github.com/user-attachments/assets/b1f54e1d-6cfa-4f30-840b-3c76e39c889d)
 
