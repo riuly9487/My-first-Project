@@ -29,4 +29,5 @@ It is an extremely beginner project that every learner will do.  <br/>
 
 = = = = END = = = = <br/>
 
-Thank you anyone for coming by, and again, I'm definitely a rookie in coding, give me time to lift my wings up. o(*￣▽￣*)ブ
+Thank you anyone for coming by, and again, I'm definitely a rookie in coding, give me time to lift my wings up. <br/>
+o(*￣▽￣*)ブ
