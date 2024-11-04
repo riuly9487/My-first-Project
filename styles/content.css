@@ -58,8 +58,6 @@
 .middle-section {
   flex: 1;
   display: flex;
-  justify-content: center;
-  align-content: center;
 }
 
 .list-text-content,
@@ -116,4 +114,23 @@
 
 .right-section button:active {
   opacity: 0.7;
+}
+
+@media screen and (max-width: 450px){
+  .middle-section {
+    flex-direction: column;
+  }
+
+  .list-text-content,
+  .list-date-content {
+    padding: 5px 15px;
+    font-size: 12px;
+    margin-right: 30px;
+    max-width: none;
+    min-width: 70%;
+  }
+
+  .list-text-content {
+    margin-bottom: 10px;
+  }
 }
