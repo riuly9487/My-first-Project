@@ -1,21 +1,29 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
+  margin: 0;
   font-family: Roboto, Arial;
   background-image: linear-gradient(to right, rgb(86, 86, 255), rgb(169, 77, 255));
-  margin: 0;
   display: flex;
   justify-content: center;
+  overflow-x: hidden;
 }
 
 .todolist-container {
   flex: 1;
   max-width: 700px;
-  min-width: 430px;
   width: 90%;
   padding: 50px;
+  margin: 0 auto;
 }
 
-@media screen and (max-width: 450px){
+@media screen and (max-width: 450px) {
   .todolist-container {
-    min-width: 90%;
+    width: 100%;
+    padding: 20px;
   }
 }
