@@ -27,6 +27,10 @@ It is an extremely beginner project that every learner will do.  <br/>
 - Notifications of unfinished tasks <br/>
 ![83CD9A57-762F-4A0B-BAFC-344D156BACE2](https://github.com/user-attachments/assets/5cf5d907-de6e-4b37-8557-29a2cf82d1bd)
 
+= = = = UPDATE = = = = <br/>
+
+- Now support mobile browser interface <br/>
+
 = = = = END = = = = <br/>
 
 Thank you anyone for coming by, and again, I'm definitely a rookie in coding, give me time to lift my wings up. <br/>
