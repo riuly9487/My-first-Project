@@ -4,6 +4,4 @@ const interval = setInterval(function() {
 
   document.querySelector('.website-date-title').innerHTML = todayTitle;
   document.querySelector('.website-date-subtitle').innerHTML = todaySubtitle;
-
-  console.log('time is running')
 }, 1000);
