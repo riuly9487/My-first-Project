@@ -97,4 +97,12 @@
   .todolist-header-input {
     margin-bottom: 10px;
   }
+
+  .todolist-header-date {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 75px;
+    max-width: 100px;
+  }
 }
