@@ -51,3 +51,21 @@
   font-size: 16px;
   color: rgb(70, 70, 70);
 }
+
+@media screen and (max-width: 450px){
+  .website-title {
+    font-size: 16px;
+  }
+
+  .author {
+    font-size: 14px;
+  }
+
+  .website-right-section {
+    font-size: 14px;
+  }
+
+  .website-date-subtitle {
+    font-size: 10px;
+  }
+}
